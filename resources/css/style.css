@@ -28,6 +28,7 @@ header {
 #logo_flex img {
   margin-left: 2rem;
   margin-right: 1rem;
+  height: 1.5rem;
 }
 .mobile_menu {
   display: none;
