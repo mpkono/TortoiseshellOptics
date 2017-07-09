@@ -161,7 +161,7 @@ footer img {
   }
 }
 
-@media only screen and (max-width: 680px) {
+@media only screen and (max-width: 620px) {
   .banner {
     background-position: 20%;
     height: 17rem;
